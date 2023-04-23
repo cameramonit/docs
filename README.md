@@ -1,6 +1,12 @@
 # docs.cameramonit.com
 
 
++ uberyzacja branzy security
++ konfiguracja kamer za pomocą smartfona, minimalina wiedza instalatora, dlatego wystarczy montaz i podłączenie
++ po podłączeniu można zamówić płatny audyt
+
+
+
 ## TODO
 
 + lista obsługiwanych i w poczekalni rejestratorów
