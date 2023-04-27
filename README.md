@@ -50,5 +50,8 @@ aplikacja powiadamiająca w smartfone dla kilku osób z rodziny
 + [Foscam Support - Downloads](https://www.foscam.com/downloads/firmware_details.html?id=6)
 + [How to connect directly to Foscam camera using a computer?-Foscam Support - FAQs](https://www.foscam.com/faqs/view.html?id=139)
 + [How to log into a HD camera via a web browser?-Foscam Support - FAQs](https://www.foscam.com/faqs/view.html?id=17)
++ [Foscam Support - FAQs](https://www.foscam.com/downloads/app_software.html)
++ [How to install plugins if they are blocked?-Foscam Support - FAQs](https://www.foscam.com/faqs/view.html?id=161)
+
 
 
