@@ -1,5 +1,21 @@
 # docs.cameramonit.com
 
+## EN
+
+I have coded many object detection algorithms into its infrastructure and create a database of camera IPs around the world. 
+With this algorithm programmed to track nearly 160 objects. I am constantly feeding this IP database and boosting it with scans.
+
+I shared the previous version of this with you before.
+This is a much more stable and precise layout.
+
+We can say that cyber security, data science and artificial intelligence algorithms are focused on a single purpose.
+
+
+
+#algorithms #machinelearnig #machinelearningalgorithms #artificialintelliegence #informationsecurity #cybersecurity
+
+
+## PL
 
 + uberyzacja branzy security
 
