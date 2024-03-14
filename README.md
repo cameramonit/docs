@@ -71,3 +71,22 @@ aplikacja powiadamiająca w smartfone dla kilku osób z rodziny
 
 
 
+## Interface
+
+
+### N8N (self-hosted open source automation tool, MAKE alternative)
+ [n8n.io - a powerful workflow automation tool](https://n8n.io/)
+ 
+### Railway(cloud for apps, it deployed N8N instance in 5 mins for me)
+
+### OpenAI (API for GPT, can be easily replaced with open source model in a single click)
+
+### Baserow (open source no-code database, Airtable alternative)
+I'm on a hobby plan. Avg spending depends on the intensity of your automation usage. In my case (just solo experiments/proof of concepts) I'm paying ~$6 / month
+helm charts na k8s
+you may run this stuff on self managed server if you like and use llama2 or mistral models instead of OpenAI. 
+
+anthropic.com
+
+
+
