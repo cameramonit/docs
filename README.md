@@ -52,6 +52,21 @@ aplikacja powiadamiająca w smartfone dla kilku osób z rodziny
 
 
 
+Ostatnie wydarzenia w Maine przypominają nam o pilnej potrzebie zwiększenia środków bezpieczeństwa w naszych społecznościach. Nasze myśli i najgłębsze kondolencje kierujemy do wszystkich dotkniętych tą tragedią.
+
+Jako część społeczności technologicznej czujemy się głęboko odpowiedzialni za przyczynienie się do zwiększenia bezpieczeństwa naszych przestrzeni publicznych. Chociaż żadna technologia nie może zastąpić ludzkiej czujności i wsparcia społeczności, z pewnością może pomóc we wczesnym wykrywaniu i zapobieganiu.
+
+My, w CameraMonit. opracowaliśmy rozwiązanie, które wykrywa broń palną w nagraniach CCTV, mając na celu zapewnienie dodatkowej warstwy bezpieczeństwa w przestrzeni publicznej i prywatnej.
+
+Naszym głównym celem jest wspieranie pracowników ochrony, organów ścigania i społeczności poprzez oferowanie narzędzia, które może potencjalnie zapobiec takim tragicznym wydarzeniom w przyszłości. Zapraszamy liderów społeczności, specjalistów ds. bezpieczeństwa i zainteresowane strony do dyskusji na temat tego, jak możemy współpracować i zapewnić bezpieczeństwo naszym bliskim.
+
+Obraz został przeanalizowany przez nasze oprogramowanie do wykrywania broni AI CCTV.
+
+
+
+
+
+
 ## TODO
 
 + lista obsługiwanych i w poczekalni rejestratorów
