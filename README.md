@@ -51,6 +51,14 @@ dla firm security dojeżdżających lokalnie
 aplikacja powiadamiająca w smartfone dla kilku osób z rodziny
 
 
+## Detekcja
++ broni
++ pozaru
++ upadku czlowieka
++ szybkich zdarzen sugerujacych anomalie
+
+
+### bron
 
 Ostatnie wydarzenia w Maine przypominają nam o pilnej potrzebie zwiększenia środków bezpieczeństwa w naszych społecznościach. Nasze myśli i najgłębsze kondolencje kierujemy do wszystkich dotkniętych tą tragedią.
 
@@ -62,6 +70,30 @@ Naszym głównym celem jest wspieranie pracowników ochrony, organów ścigania 
 
 Obraz został przeanalizowany przez nasze oprogramowanie do wykrywania broni AI CCTV.
 
+
+## pozar
+
+technologia wykrywania pożarów
+
+Nasze rozwiązanie rewolucjonizuje protokoły bezpieczeństwa, wykraczając poza ograniczenia tradycyjnych czujników dymu.
+Zaprojektowana z myślą o nowoczesnych firmach, ta płatna usługa SaaS wykorzystuje zaawansowaną sztuczną inteligencję do wykrywania pożarów z niezrównaną szybkością i dokładnością.
+
+Dlaczego warto wybrać naszą technologię wykrywania pożarów opartą na sztucznej inteligencji?
+
+Wszechstronne zastosowania: Idealny do środowisk, w których konwencjonalne czujniki dymu nie sprawdzają się - duże niezadaszone magazyny, rozległe przestrzenie zewnętrzne i ważne instalacje zewnętrzne, takie jak panele fotowoltaiczne.
+
+Alerty w czasie rzeczywistym: Natychmiastowe powiadomienia pozwalają na szybką reakcję, zmniejszając potencjalne szkody i zapewniając bezpieczeństwo zasobów i personelu.
+
+Minimalna infrastruktura: Eliminacja potrzeby tworzenia rozległych sieci czujników. Nasz system płynnie integruje się z istniejącą infrastrukturą wideo, oszczędzając czas i pieniądze.
+
+Wgląd w dane: Wykorzystaj moc analityki, aby wzmocnić środki bezpieczeństwa przeciwpożarowego, dzięki szczegółowemu rejestrowaniu zdarzeń w celu podejmowania świadomych decyzji.
+Upewnij się, że Twoja firma jest zabezpieczona przed nieprzewidzianymi zdarzeniami dzięki naszemu systemowi wykrywania pożarów opartemu na sztucznej inteligencji. 
+Pożegnaj się z martwymi punktami w bezpieczeństwie przeciwpożarowym - powitaj nową erę ochrony dzięki naszemu inteligentnemu rozwiązaniu.
+Wyprzedź konkurencję i pozwól sztucznej inteligencji chronić Twoją firmę.
+
+Dowiedz się więcej o tym, jak nasza analiza wideo AI może wzmocnić Twoje środki bezpieczeństwa przeciwpożarowego. 
+
+Skontaktuj się z nami, aby otrzymać demo już dziś!
 
 
 
