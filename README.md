@@ -1,6 +1,37 @@
 # docs.cameramonit.com
 
 
+## Rozwiązanie
+
+### Kamery, dziedzina, branża
+
++ Proste wykrywanie obiektów jest standardem wbudowanym w wiele tanich kamer
++ Dziesiątki producentów kamer na świecie oferuje własny system w oprarciu o własne oprogramowanie i aplikację
+
+
+### W jakim celu powstał ten projekt? 
+
+W celu głosowej komunikacji z systemem monitorowania kamerami, bez potrzeby instalowania nowych kamer lub osprzętu tego samego producenta
+
+
+### Jaki problem rozwiązuje?
+
++ integracja starych kamer z nowymi (camera IP) do detekcji obiektów
++ jeden interfejs do różnych systemów i produenctów kamer
+
+
+
+### Jakie daje korzyści
+
++ nie trzeba instalować nowych kamer aby skorzystać z funkcji wykrywania obiektów
++ nie trzeba kupować nowego rejestratora z funkcjami detekcji obiektów
++ Wzbogacenie nowoczesnego rejestratora o komunikację głosową i sterowanie kamer głosem
++ Zwiększenie możliwości wymiany i automatyzacji danych z kamer
++ Sterowanie urządzeniami i integracja z innymi systemami
+
+
+
+
 AI Camera Market Size, Share & Trends Analysis Report By Technology (Image/Face Recognition, Computer Vision, Emotion Recognition, DSLR Cameras, Network Cameras Security, Cameras Others (Wi-Fi Camera)), By Camera Type (PTZ Camera, Dome Camera, Bullet Camera, Box Camera, Others), By End User (BFSI, Healthcare, Automotive, Consumer Electronics, Smartphones & Tablets CCTV Camera Digital Camera Others, Retail, Government, Logistics & Transportation, Military and Defense, Commercial Spaces, Media and Entertainment Others (Residential, Oil & Gas)), Global Economy Insights, Regional Outlook, Growth Potential, Price Trends,
 
 ### Hikvision
