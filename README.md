@@ -35,107 +35,12 @@ W celu głosowej komunikacji z systemem monitorowania kamerami, bez potrzeby ins
 AI Camera Market Size, Share & Trends Analysis Report By Technology (Image/Face Recognition, Computer Vision, Emotion Recognition, DSLR Cameras, Network Cameras Security, Cameras Others (Wi-Fi Camera)), By Camera Type (PTZ Camera, Dome Camera, Bullet Camera, Box Camera, Others), By End User (BFSI, Healthcare, Automotive, Consumer Electronics, Smartphones & Tablets CCTV Camera Digital Camera Others, Retail, Government, Logistics & Transportation, Military and Defense, Commercial Spaces, Media and Entertainment Others (Residential, Oil & Gas)), Global Economy Insights, Regional Outlook, Growth Potential, Price Trends,
 
 
-### Hikvision
-+ [Hikvision linkedin](https://www.linkedin.com/company/hikvision/)
-+ [Hikvision - Leading Video AIoT Solutions & Services Provider](https://www.hikvision.com/en/)
-
-### Dahua Technology Co. LTD
-+ [Dahua Technology linkedin](https://www.linkedin.com/company/dahua-technology/)
-+ [Dahua Technology - World Leading Video-Centric AIoT Solution & Service Provider](https://www.dahuasecurity.com/)
-
-### Axis Communications
-+ [Axis linkedin](https://www.linkedin.com/company/axis-communications/)
-+ [Axis Communications – Technologieführer im Bereich Netzwerk-Kameras und andere IP-Netzwerklösungen](https://www.axis.com/de-de)
-
-### Bosch Security and Safety Systems
-+ [Bosch Security linkedin](https://www.linkedin.com/company/bosch-security-systems/)
-+ [Bosch Security and Safety Systems I Global](https://www.boschsecurity.com/xc/en/)
-
-### Honeywell
-+ [Honeywell linkedin](https://www.linkedin.com/company/honeywell/)
-+ [Honeywell - The Future Is What We Make It](https://www.honeywell.com/us/en)
-
-### Avigilon
-+ [Avigilon linkedin](https://www.linkedin.com/company/avigilon/)
-+ [End-to-End Security Solutions | Avigilon (Openpath & Ava)](https://www.avigilon.com/)
-
-### Hanwha Vision Europe
-+ [Hanwha Vision Europe linkedin](https://www.linkedin.com/company/hanwha-vision-europe/)
-+ [Hanwha Vision Europe Limited - Total technology security solutions provider](https://hanwhavision.eu/)
-
-### FLIR Systems
-+ [FLIR Systems linkedin](https://www.linkedin.com/company/flir-systems/)
-+ [Thermal Imaging, Night Vision and Infrared Camera Systems - Teledyne FLIR](https://www.flir.com/)
-
-### Pelco
-+ [Pelco linkedin](https://www.linkedin.com/company/pelco/)
-+ [CCTV Camera System & Video Security Solutions - Pelco](https://www.pelco.com/)
-
-### Tiandy Technologies
-+ [Tiandy Turkiye linkedin](https://www.linkedin.com/company/tianjin-tiandy-digital-technology-co.-ltd/)
-+ [Tiandy Technologies](https://en.tiandy.com/)
-
-### VIVOTEK
-+ [VIVOTEK linkedin](https://www.linkedin.com/company/vivotekglobal/)
-+ [VIVOTEK](https://www.vivotek.com/)
-
-### CP PLUS
-+ [CP PLUS linkedin](https://www.linkedin.com/company/cpplusworld/)
-+ [CP Plus: Advanced Security & Surveillance Solutions](https://www.cpplusworld.com/)
-
-### Uniview
-+ [Uniview linkedin](https://www.linkedin.com/company/uniview-technologies-co-ltd/)
-+ [Uniview - Uniview - Leader of AIoT Solution](https://global.uniview.com/)
-
-### Infinova
-
-+ [Infinova linkedin](https://www.linkedin.com/company/infinova/)
-+ [Security Surveillance Cameras - IP/IR CCTV Cameras - Infinova](https://www.infinova.com/)
-
-
 
 
 Współpraca z firmami specjalizującymi się w obszarze security przyczynia się do zmniejszenia kosztu a jednocześnie zwiększenia szybkości reakcji na incydenty.
 
 
 Zajmujemy się rozpoznawanie obiektów, wykorzystując sztuczną inteligencję do identyfikacji i śledzenia obiektów na zdjęciach i filmach. 
-
-
-## Czym jest Object Recognition? 
-
-Object Recognition (rozpoznawanie obiektów) polega na wykorzystaniu algorytmów komputerowych do rozpoznawania, identyfikowania i pozycjonowania obiektów na zdjęciach i filmach. 
-
-Proces ten wymaga dostarczenia algorytmom wysokiej jakości danych, aby nauczyły się rozpoznawać cechy poszczególnych obiektów. 
-
-Metody obejmują klasyfikację, tagowanie, wykrywanie i segmentację obiektów. 
-
-
-## Metody Rozpoznawania Obrazów: 
-
-Klasyfikacja: Algorytm rozpoznaje jeden obiekt, ignorując inne. 
-
-Tagowanie: Rozpoznaje wiele obiektów na danym obrazie, starając się przypisać im odpowiednie klasy. 
-
-Wykrywanie: Pozwala na detekcję określonych klas obiektów na obrazach i filmach. 
-
-Segmentacja: Określa nie tylko położenie obiektu, ale także jego dokładny kształt. 
-
-
-## Zastosowania Object Recognition: 
-
-Branża motoryzacyjna: W technologii pojazdów autonomicznych, samochody rozpoznają znaki drogowe i odróżniają pieszych od obiektów nieruchomych. 
-
-Identyfikacja osób: Kamery wykorzystują rozpoznawanie obrazów do identyfikacji osób na podstawie twarzy lub tęczówki oka. 
-
-Inteligentne kamery w handlu: Wykrywają klientów i śledzą ich zachowania podczas zakupów, co pomaga lepiej projektować sklepy i rozmieszczać produkty na półkach. 
-
-
-## Nowoczesne Metody Detekcji Obiektów: 
-
-Konwolucyjne sieci neuronowe (CNN), generatywne sieci przeciwstawne (GAN) oraz architektury takie jak YOLO (You Only Look Once) czy R-CNN (Region-based Convolutional Neural Networks). 
-
-Uczenie głębokie ma ogromny wpływ na rozwój detekcji obiektów
-
 
 
 
@@ -352,6 +257,48 @@ helm charts na k8s
 you may run this stuff on self managed server if you like and use llama2 or mistral models instead of OpenAI. 
 
 anthropic.com
+
+
+
+
+
+
+Kamery IP: Kamery IP są podłączone bezpośrednio do switcha. Każda kamera ma swoje własne IP i jest zasilana przez Power over Ethernet (PoE), co oznacza, że przesył danych i zasilanie odbywają się przez ten sam kabel Ethernet.
+Switch: Switch jest centralnym punktem, do którego podłączone są kamery. To urządzenie umożliwia komunikację między kamerami oraz z innymi urządzeniami w sieci.
+MiniPC: MiniPC jest podłączony do switcha. Może to być komputer jednopłytkowy lub inny mały komputer, który pełni rolę serwera lub rejestratora wideo.
+Router: MiniPC jest następnie podłączony do routera, który zapewnia dostęp do Internetu. Router może obsługiwać zarówno przewodowe, jak i bezprzewodowe połączenia.
+Oto graficzne przedstawienie tego układu:
+
+
+
+
+
+
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/teleoperator-info/www) [![GitHub stars](https://img.shields.io/github/stars/teleoperator-info/www.svg?style=flat&label=Star)](https://github.com/teleoperator-info/www/stargazers) [![GitHub forks](https://img.shields.io/github/forks/teleoperator-info/www.svg?style=flat&label=Fork)](https://github.com/teleoperator-info/www/fork) [![GitHub watchers](https://img.shields.io/github/watchers/teleoperator-info/www.svg?style=flat&label=Watch)](https://github.com/teleoperator-info/www/watchers) [![GitHub followers](https://img.shields.io/github/followers/teleoperator-info.svg?label=Follow)](https://github.com/teleoperator-info) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteleoperator-info%2Fwww&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+
+# [python.apifunc.com](http://python.apifunc.com)
+
+
+
+
+---
+
+
+
+<script type="module">    
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  //import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.8.0/dist/mermaid.min.js';
+  mermaid.initialize({
+    startOnReady:true,
+    theme: 'forest',
+    flowchart:{
+            useMaxWidth:false,
+            htmlLabels:true
+        }
+  });
+  mermaid.init(undefined, '.language-mermaid');
+</script>
 
 
 
