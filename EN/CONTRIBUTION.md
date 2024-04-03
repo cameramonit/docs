@@ -1,8 +1,8 @@
 
 ## Contribution
 
-+ [Edit Docs](https://github.com/apifunc/python/edit/main/README.md)
-+ [New Issue](https://github.com/apifunc/python/issues/new)
++ [Edit Docs](https://github.com/cameramonit/python/edit/main/README.md)
++ [New Issue](https://github.com/cameramonit/python/issues/new)
 
 
 ## [Contributions](http://contribution.softreck.dev)

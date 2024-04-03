@@ -1,3 +1,155 @@
+
+# [www.cameramonit.com](http://www.cameramonit.com) [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:cameramonit/docs/edit/main/PL/HEAD.md)
+
+
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/cameramonit/python) [![GitHub stars](https://img.shields.io/github/stars/cameramonit/www.svg?style=flat&label=Star)](https://github.com/cameramonit/python/stargazers) [![GitHub forks](https://img.shields.io/github/forks/cameramonit/www.svg?style=flat&label=Fork)](https://github.com/cameramonit/python/fork) [![GitHub watchers](https://img.shields.io/github/watchers/cameramonit/www.svg?style=flat&label=Watch)](https://github.com/cameramonit/python/watchers) [![GitHub followers](https://img.shields.io/github/followers/cameramonit.svg?label=Follow)](https://github.com/cameramonit) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcameramonit%2Fwww&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+## Menu [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:cameramonit/docs/edit/main/PL/MENU.md)
+
++ [CameraMonit - Surveillance Integration](http://www.cameramonit.com)
++ [VoCo.Cam - Voice Controlled Camera](http://www.vococam.com)
++ [CameraMind - Detection and Notification](http://www.cameramind.com)
++ [Do.Camera - From Vision to Action](http://www.docamera.com)
+
+# [Camera Monit](https://www.cameramonit.com/) - Rejestrator video z detekcją obiektów sterowany głosowo [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:cameramonit/docs/edit/main/PL/ABOUT.md)
+
+
+![obraz](https://github.com/cameramonit/www/assets/5669657/6ba03f60-11cc-45d3-adae-f5442bdd9864)
+
+
+Wielu myśli, że chatGpt to rewolucja ... a co jeśli wykorzystamy różne kanały komunikacji głosowe i video, asnychroniczne i synchroniczne np. w celu zarządzania infrastrukturą od monitoringu po smarthome, komputery
+
+
+Wyobraź sobie rejestrator video z detekcją obiektów sterowany głosowo.
+Tak działa system skalowalnego monitoringu z setkami kamer w XXI wieku.
+
+Sterowanie i komunikacja z kamerą jest możliwa przez popularny komunikator:
++ signal
++ whatsapp
++ telegram
+  
+Asystent kamer będzie funckkjonował jak podczas rozmowy z osobą.
+Do dystopzycji jest chat tekstowy i głosowy oraz funkcja rozmowy video, gdzie będzie można wybrać kamerę którą chce się widzieć w czasie rzeczywistym.
+
+Uzytkownik może po prostu rozmawiać lub pisać z asystentem poprzez przez swój komunikator.
+Aktualnie asystent, jest dostepny dla komunikatora signal z uwagi na bezpieczeństwo, ale będzie dostępny obsługa komunikatorów: whatsapp, telegram na życzenie.
+
+
+
+
+### Co wyróżnia CameraMonit?
+
+W odróżnieniu od aktualnych systemów oferujemy komunikację głosową do sterowania całą siecią kamer i wybranymi w czasie rzeczysitom oraz dostęp do archiwalnych nagrań.
+
+
+![wersja prototypowa cameramonit.com](https://github.com/cameramonit/www/assets/5669657/1c71e644-2dc9-4152-8ef3-7acb7bc97ef3)
+wersja prototypowa cameramonit.com
+
+
+### Oferta 
+
+### dla instalatorow CCTV, systemow dozoru
+
+kamery
+
+rejstratory
+
+
+#### dla ochrony
+
+Jesteśmy otwarci na kooperację, ułatwiamy wdrożenie systemów tele-informatycznych
+
+
+#### slużb specjalnych
+
+oferujemy zaplecze merytoryczne i techniczne
+
+
+
+
+## CamOs System
+
+CamOS is a surveillance camera management app built on Media Server, empowering enterprises to establish private cloud camera solutions
+
++ [CamOS - Private cloud camera solution - Hackster.io](https://www.hackster.io/dmtan/camos-private-cloud-camera-solution-196a7e)
++ [ant-media/Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server/releases)
+
++ [Ant Media Server - Real-time Streaming Engine](https://antmedia.io/)
+
+Live Video Surveillance
+
+Embed IP camera streams into websites and mobile apps to broadcast video. AMS is compatible with ONVIF IP cameras with PTZ and Auto Discovery features.
+
+It offers direct data storage for new technology surveillance cameras, ensuring secure and easily accessible data through the cloud.
+It supports online viewing, playback, and camera management with user-friendly administrative features.
+Integration with various camera lines and recorders meeting the ONVIF connection standard optimizes cost efficiency, making it a versatile solution.
+Integrate the smart features based on video analytics solutions to support your business such as smart retail stores, smart gates, and smart traffic monitoring.
+
+
+## How can IP camera video analytics and AI reduce false alarms?
+
+### Motion detection
+Motion detection is a basic feature of IP cameras that can trigger an alarm when a change in the image is detected. However, not all motion is relevant or suspicious, and motion detection can be easily fooled by factors such as shadows, light, wind, or animals. To reduce false alarms, IP cameras can use video analytics and AI to enhance motion detection by filtering out irrelevant motion, adjusting sensitivity levels, and applying regions of interest. For example, a video analytic algorithm can ignore motion that is too small, too fast, or too far from the camera, or motion that occurs in a predefined area that is not important.
+
+
+### Object recognition
+Object recognition is a feature of IP cameras that can identify and classify different objects in the image, such as people, vehicles, animals, or weapons. This can help reduce false alarms by distinguishing between objects that pose a threat and objects that are harmless or authorized. For example, a video analytic algorithm can recognize a person carrying a gun and trigger an alarm, while ignoring a person carrying an umbrella or a bag. Object recognition can also help verify alarms by providing additional information about the object, such as its size, color, shape, or license plate.
+
+
+
+### Face recognition
+Face recognition is a feature of IP cameras that can match faces in the image with faces in a database, such as a whitelist or a blacklist. This can help reduce false alarms by verifying the identity and authorization of people who enter or exit a secured area. For example, a video analytic algorithm can recognize a face that belongs to an employee or a visitor and allow access, while detecting a face that belongs to a stranger or a criminal and alerting the security personnel. Face recognition can also help track and locate people of interest by comparing faces across multiple cameras and locations.
+
+
+
+### Behavior analysis
+Behavior analysis is a feature of IP cameras that can analyze and interpret the actions and interactions of people and objects in the image, such as walking, running, falling, fighting, or loitering. This can help reduce false alarms by detecting abnormal or suspicious behavior that indicates a potential threat or an emergency. For example, a video analytic algorithm can detect a person who falls down and does not get up and trigger an alarm, while ignoring a person who sits down and rests. Behavior analysis can also help prevent or respond to incidents by providing alerts and suggestions based on the behavior patterns and scenarios.
+
+
+
+
+
+## Coffee shop 
+
+This coffee shop uses AI to track the Productivity of Baristas and how much Time Customers are spending in the Shop.
+
+Neurospot barista pro tracks everything from how many coffees baristas make to how long customers linger at tables.
+
+- Tracks coffee output to monitor productivity and inventory.
+- Monitors how long customers stay to optimize table turnover and service.
+- Keeps tabs on table cleanliness in real-time for a hygienic environment.
+- Tracks staff activities to ensure focus on designated tasks.
+
+AI is going to be everywhere! Are you ready?
+
+All this will come at a great cost of privacy.
+
+
+
+
+
+### [Photogrammetry - Wikipedia](https://en.wikipedia.org/wiki/Photogrammetry)
+
+Photogrammetry is the science and technology of obtaining reliable information about physical objects and the environment through the process of recording, measuring and interpreting photographic images and patterns of electromagnetic radiant imagery and other phenomena.
+
+
+
+
+
+
+![image](https://github.com/cameramonit/www/assets/5669657/75e9af3e-67ec-4622-b365-57157bd99687)
+
+
+
+![image](https://github.com/cameramonit/www/assets/5669657/42fcce48-3463-4625-99ba-8a9459b5298e)
+
+
+
+Offer
+
+It provides free rolling 3-day cycled cloud storage that you can enjoy storage service without any subscription. And it provides a 30-day free trial of advanced features that include AI recognition, upgraded cloud memory, custom alert areas and etc, the advanced features starts at $2.99 per month after 30 days free trial. 
+
+
 # docs.cameramonit.com
 
 
@@ -9,7 +161,7 @@
 + Dziesiątki producentów kamer na świecie oferuje własny system w oprarciu o własne oprogramowanie i aplikację
 
 
-### W jakim celu powstał ten projekt? 
+### W jakim celu powstał ten projekt?
 
 W celu głosowej komunikacji z systemem monitorowania kamerami, bez potrzeby instalowania nowych kamer lub osprzętu tego samego producenta
 
@@ -40,7 +192,7 @@ AI Camera Market Size, Share & Trends Analysis Report By Technology (Image/Face 
 Współpraca z firmami specjalizującymi się w obszarze security przyczynia się do zmniejszenia kosztu a jednocześnie zwiększenia szybkości reakcji na incydenty.
 
 
-Zajmujemy się rozpoznawanie obiektów, wykorzystując sztuczną inteligencję do identyfikacji i śledzenia obiektów na zdjęciach i filmach. 
+Zajmujemy się rozpoznawanie obiektów, wykorzystując sztuczną inteligencję do identyfikacji i śledzenia obiektów na zdjęciach i filmach.
 
 
 
@@ -90,7 +242,7 @@ AI-powered CCTV cameras provide enhanced security by detecting suspicious activi
 ## What are the 7 benefits of AI-powered CCTV cameras for business?
 
 ### Real-Time Threat Detection
-AI-powered CCTV cameras offer real-time threat detection, swiftly identifying suspicious activities as they happen. 
+AI-powered CCTV cameras offer real-time threat detection, swiftly identifying suspicious activities as they happen.
 Advanced algorithms analyze video feeds instantly, alerting security personnel to unauthorized access or unusual behavior, enabling rapid intervention to prevent incidents.
 
 ### 24/7 Surveillance
@@ -125,7 +277,7 @@ Artificial Intelligence is revolutionizing safety and security, empowering us to
 
 ## EN
 
-I have coded many object detection algorithms into its infrastructure and create a database of camera IPs around the world. 
+I have coded many object detection algorithms into its infrastructure and create a database of camera IPs around the world.
 With this algorithm programmed to track nearly 160 objects. I am constantly feeding this IP database and boosting it with scans.
 
 I shared the previous version of this with you before.
@@ -156,7 +308,7 @@ We can say that cyber security, data science and artificial intelligence algorit
 + płatne za rok z góry
 
 
-### Audyt LOCAL - HUMAN SERVICE 
+### Audyt LOCAL - HUMAN SERVICE
 
 + po podłączeniu można zamówić płatny audyt
 + po uzyskaniu audytu, można skorzystać z local security , usługi reagowania, na wypadek kradzieży
@@ -210,11 +362,11 @@ Alerty w czasie rzeczywistym: Natychmiastowe powiadomienia pozwalają na szybką
 Minimalna infrastruktura: Eliminacja potrzeby tworzenia rozległych sieci czujników. Nasz system płynnie integruje się z istniejącą infrastrukturą wideo, oszczędzając czas i pieniądze.
 
 Wgląd w dane: Wykorzystaj moc analityki, aby wzmocnić środki bezpieczeństwa przeciwpożarowego, dzięki szczegółowemu rejestrowaniu zdarzeń w celu podejmowania świadomych decyzji.
-Upewnij się, że Twoja firma jest zabezpieczona przed nieprzewidzianymi zdarzeniami dzięki naszemu systemowi wykrywania pożarów opartemu na sztucznej inteligencji. 
+Upewnij się, że Twoja firma jest zabezpieczona przed nieprzewidzianymi zdarzeniami dzięki naszemu systemowi wykrywania pożarów opartemu na sztucznej inteligencji.
 Pożegnaj się z martwymi punktami w bezpieczeństwie przeciwpożarowym - powitaj nową erę ochrony dzięki naszemu inteligentnemu rozwiązaniu.
 Wyprzedź konkurencję i pozwól sztucznej inteligencji chronić Twoją firmę.
 
-Dowiedz się więcej o tym, jak nasza analiza wideo AI może wzmocnić Twoje środki bezpieczeństwa przeciwpożarowego. 
+Dowiedz się więcej o tym, jak nasza analiza wideo AI może wzmocnić Twoje środki bezpieczeństwa przeciwpożarowego.
 
 Skontaktuj się z nami, aby otrzymać demo już dziś!
 
@@ -245,8 +397,8 @@ Skontaktuj się z nami, aby otrzymać demo już dziś!
 
 
 ### N8N (self-hosted open source automation tool, MAKE alternative)
- [n8n.io - a powerful workflow automation tool](https://n8n.io/)
- 
+[n8n.io - a powerful workflow automation tool](https://n8n.io/)
+
 ### Railway(cloud for apps, it deployed N8N instance in 5 mins for me)
 
 ### OpenAI (API for GPT, can be easily replaced with open source model in a single click)
@@ -254,7 +406,7 @@ Skontaktuj się z nami, aby otrzymać demo już dziś!
 ### Baserow (open source no-code database, Airtable alternative)
 I'm on a hobby plan. Avg spending depends on the intensity of your automation usage. In my case (just solo experiments/proof of concepts) I'm paying ~$6 / month
 helm charts na k8s
-you may run this stuff on self managed server if you like and use llama2 or mistral models instead of OpenAI. 
+you may run this stuff on self managed server if you like and use llama2 or mistral models instead of OpenAI.
 
 anthropic.com
 
@@ -269,21 +421,64 @@ MiniPC: MiniPC jest podłączony do switcha. Może to być komputer jednopłytko
 Router: MiniPC jest następnie podłączony do routera, który zapewnia dostęp do Internetu. Router może obsługiwać zarówno przewodowe, jak i bezprzewodowe połączenia.
 Oto graficzne przedstawienie tego układu:
 
+ [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:cameramonit/docs/edit/main/PL/DETEKCJA.md)
+## Czym jest Object Recognition?
+
+Object Recognition (rozpoznawanie obiektów) polega na wykorzystaniu algorytmów komputerowych do rozpoznawania, identyfikowania i pozycjonowania obiektów na zdjęciach i filmach.
+
+Proces ten wymaga dostarczenia algorytmom wysokiej jakości danych, aby nauczyły się rozpoznawać cechy poszczególnych obiektów.
+
+Metody obejmują klasyfikację, tagowanie, wykrywanie i segmentację obiektów.
 
 
+## Metody Rozpoznawania Obrazów:
+
+Klasyfikacja: Algorytm rozpoznaje jeden obiekt, ignorując inne.
+
+Tagowanie: Rozpoznaje wiele obiektów na danym obrazie, starając się przypisać im odpowiednie klasy.
+
+Wykrywanie: Pozwala na detekcję określonych klas obiektów na obrazach i filmach.
+
+Segmentacja: Określa nie tylko położenie obiektu, ale także jego dokładny kształt.
 
 
+## Zastosowania Object Recognition:
 
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/teleoperator-info/www) [![GitHub stars](https://img.shields.io/github/stars/teleoperator-info/www.svg?style=flat&label=Star)](https://github.com/teleoperator-info/www/stargazers) [![GitHub forks](https://img.shields.io/github/forks/teleoperator-info/www.svg?style=flat&label=Fork)](https://github.com/teleoperator-info/www/fork) [![GitHub watchers](https://img.shields.io/github/watchers/teleoperator-info/www.svg?style=flat&label=Watch)](https://github.com/teleoperator-info/www/watchers) [![GitHub followers](https://img.shields.io/github/followers/teleoperator-info.svg?label=Follow)](https://github.com/teleoperator-info) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteleoperator-info%2Fwww&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+Branża motoryzacyjna: W technologii pojazdów autonomicznych, samochody rozpoznają znaki drogowe i odróżniają pieszych od obiektów nieruchomych.
+
+Identyfikacja osób: Kamery wykorzystują rozpoznawanie obrazów do identyfikacji osób na podstawie twarzy lub tęczówki oka.
+
+Inteligentne kamery w handlu: Wykrywają klientów i śledzą ich zachowania podczas zakupów, co pomaga lepiej projektować sklepy i rozmieszczać produkty na półkach.
 
 
-# [python.apifunc.com](http://python.apifunc.com)
+## Nowoczesne Metody Detekcji Obiektów:
 
+Konwolucyjne sieci neuronowe (CNN), generatywne sieci przeciwstawne (GAN) oraz architektury takie jak YOLO (You Only Look Once) czy R-CNN (Region-based Convolutional Neural Networks).
 
+Uczenie głębokie ma ogromny wpływ na rozwój detekcji obiektów
 
+## References [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:cameramonit/docs/edit/main/PL/REFERENCES.md)
 
++ [cameramonit projects](https://github.com/cameramonit)
++ Build ENVIRONMENT on yaml[apitee/python: www.apitee.com](https://github.com/apitee/python)
++ Build Docker image based on url
++ Automated scripts [www.apimacro.com](https://www.apimacro.com/)
++ DSL language [apidsl.com](https://apidsl.com/)
+
+## People [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:cameramonit/docs/edit/main/PL/PEOPLE.md)
+
++ [Tom Sapletta - DevOps](http://tom.sapletta.com)
+
+## Star History [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:cameramonit/docs/edit/main/PL/STAR.md)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=cameramonit/python&type=Date)](https://star-history.com/#cameramonit/python&Date)
+
+ [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:cameramonit/docs/edit/main/PL/FOOT.md)
 ---
+[info about privacy](../docs/PRIVACY.md)
 
+
++ [edit](https://github.com/cameramonit/www/edit/main/README.md)
 
 
 <script type="module">    
@@ -300,5 +495,5 @@ Oto graficzne przedstawienie tego układu:
   mermaid.init(undefined, '.language-mermaid');
 </script>
 
-
-
+---
++ Modular Documentation made possible by the [FlatEdit](http://www.flatedit.com) project.
