@@ -1,5 +1,8 @@
 Here are the top tech stack listed based on average pay. Which among these you already working in and receiving hefty pay? 😅
 
+
+![obraz](https://github.com/cameramonit/docs/assets/5669657/708f207a-addc-4cc0-91fa-1f02d6c81653)
+
 1. Celery is a distributed task queue system, often used with Python-based web applications.
   - Backend: Python, Django or Flask
   - Message Broker: RabbitMQ or Redis
