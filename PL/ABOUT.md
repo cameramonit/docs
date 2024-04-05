@@ -409,3 +409,25 @@ Oto graficzne przedstawienie tego układu:
 
 
 
+
+## Podsumowanie
+
+Chciałbym sprzedawać aplikacje na android do podglądu kamer z inteligentnym powiadamianiem o incydentach w oparciu o sztuczną inteligencję. 
+Aplikacja nazywa się CameraMonit od konkurencji wyróżniają ją funkcje:
+1.  Głosowa komunikacja z systemem nadzoru, bez potrzeby zaglądania do aplikacji, wystarczy tylko głosowa komenda jak w rozmowie z inteligentnym asystentem
+2. Komunikacja z aplikacją poprzez integrację z komunikatorami takimi jak signal, telegram, whatsup
+3. Aplikacja Android nie wymaga komunikacji z zewnętrznymi serwerami, możliwa jest praca offline bez internetu
+
+
+Sprzedaż i dystrybucja dotyczy głównie klientów biznesowych, którzy będą zainteresowani nie tylko wykorzystaniem tej aplikacji np w biurze czy w domu, ale też będą chcieli bardziej zaawansowane centrum obliczeniowe do kontroli wejścia i wyjścia osób w obiekcie a także alarmowania incydentów jak pożar, kradzieź, dewastacja majątku.
+Z naciskiem na obliczenia i ulepszone modele rozpoznawnia obiektow, ktore potem bede rowniez sprzedawal.
+
+Finansowanie samego pomysłu nie jest konieczne a jedynie socjalne utrzymanie w celu wyprodukowania kolejnych ulepszonych wersji aplikacji w ciągu 3 miesięcy i jej sprzedaży na rynku Europejskim w marketplace google play i apple store.
+
+Koszt pojedynczej aplikacji będzie na początku 20$ (marża google 20%).
+Podobne aplikacje na dzień dzisiejszy są w cenie 5$ i  mają ponad 100 tysięcy pobrań. Jednak żadna z nich nie oferuje funkcji, które będzie miała moja aplikacja.
+
+Będę kontaktował się bezpośrednio z instalatorami systemów alarmowych, CCTV, monitoringu infrastruktury w fabrykach i firmach, by zaproponować partnertswo i dystrybucję w oparciu o do 20-40% marży dla nich.
+Będę również prowadził spotkania, prowadzil bloga i wystepowal na branzowych konferencjach jako ekpsert w celu promocji tej aplikacji a potem kolejnych uslug.
+
+
