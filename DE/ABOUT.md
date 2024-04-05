@@ -225,3 +225,26 @@ It provides free rolling 3-day cycled cloud storage that you can enjoy storage s
 ---
 
 + [edit](https://github.com/cameramonit/www/edit/main/README.md)
+
+
+
+
+## Zusammenfassung
+
+Ich möchte Android-Anwendungen zum Anzeigen von Kameras mit intelligenter Vorfallbenachrichtigung auf Basis künstlicher Intelligenz verkaufen.
+Die Anwendung heißt CameraMonit und zeichnet sich durch ihre Features von der Konkurrenz aus:
+1. Sprachkommunikation mit dem Überwachungssystem, ohne dass ein Blick in die Anwendung erforderlich ist. Es genügt ein Sprachbefehl wie bei einem Gespräch mit einem intelligenten Assistenten
+2. Kommunikation mit der Anwendung durch Integration mit Instant Messengern wie Signal, Telegram, WhatsApp
+3. Die Android-Anwendung erfordert keine Kommunikation mit externen Servern, es ist möglich, offline ohne Internet zu arbeiten
+
+
+Der Vertrieb richtet sich hauptsächlich an Geschäftskunden, die nicht nur an der Nutzung dieser Anwendung, z. B. im Büro oder zu Hause, interessiert sind, sondern auch ein fortschrittlicheres Rechenzentrum zur Kontrolle des Ein- und Ausgangs von Personen in der Einrichtung sowie zur Alarmierung wünschen Vorfälle wie Feuer, Diebstahl, Sachverwüstung. .
+Mit Schwerpunkt auf Berechnungen und verbesserten Objektaufklärungsmodellen, die ich dann auch verkaufen werde.
+
+Eine Finanzierung der Idee selbst ist nicht notwendig, lediglich die soziale Aufrechterhaltung, um innerhalb von 3 Monaten später verbesserte Versionen der Anwendung zu erstellen und diese auf dem europäischen Markt auf den Marktplätzen Google Play und Apple Store zu verkaufen.
+
+Die Kosten für eine einzelne Anwendung betragen zunächst 20 US-Dollar (Google-Marge 20 %).
+Ähnliche Anwendungen kosten derzeit 5 US-Dollar und werden über 100.000 Mal heruntergeladen. Allerdings bietet keiner von ihnen die Funktionen, die meine App haben wird.
+
+Ich werde direkt mit Installateuren von Alarmsystemen, CCTV und Infrastrukturüberwachung in Fabriken und Unternehmen Kontakt aufnehmen, um ihnen eine Partnerschaft und einen Vertrieb mit einer Marge von bis zu 20–40 % anzubieten.
+Außerdem werde ich Meetings leiten, einen Blog betreiben und auf Branchenkonferenzen als Experte auftreten, um für diese Anwendung und nachfolgende Dienstleistungen zu werben.
