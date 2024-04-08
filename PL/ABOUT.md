@@ -20,8 +20,17 @@ Aktualnie asystent, jest dostepny dla komunikatora signal z uwagi na bezpieczeń
 
 ### CameraMonit
 Lider w usługach Zdalnego Dozoru Wizyjnego. Wymieniamy ochronę fizyczną na System Ochrony Wizyjnej znacznie podnosząc bezpieczeństwo obiektów przy okazji redukując wysokie koszty.
-Zapraszamy do współpracy
 
+Koncentrujemy się na dostarczaniu nowoczesnych rozwiązań informatycznych w obszarze szeroko rozumianego bezpieczeństwa dla:
+
+- stacji monitorowania alarmów
+- stacji zdalnego dozoru wideo
+- firm ochrony osób i mienia 
+- banków i firmy o charakterze globalnym
+- sieci handlowych, gastronomicznych i usługowych
+- infrastruktury energetycznej, telekomunikacyjnej i paliwowej
+
+Zapraszamy do współpracy
 
 ### Co wyróżnia CameraMonit?
 
