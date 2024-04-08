@@ -18,6 +18,9 @@ Uzytkownik może po prostu rozmawiać lub pisać z asystentem poprzez przez swó
 Aktualnie asystent, jest dostepny dla komunikatora signal z uwagi na bezpieczeństwo, ale będzie dostępny obsługa komunikatorów: whatsapp, telegram na życzenie.
 
 
+### CameraMonit
+Lider w usługach Zdalnego Dozoru Wizyjnego. Wymieniamy ochronę fizyczną na System Ochrony Wizyjnej znacznie podnosząc bezpieczeństwo obiektów przy okazji redukując wysokie koszty.
+Zapraszamy do współpracy
 
 
 ### Co wyróżnia CameraMonit?
