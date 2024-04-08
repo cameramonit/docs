@@ -1,4 +1,11 @@
 
+### Safestar
+[Safestar - system do monitoringu dla agencji ochrony](https://safestar.pl/)
+
+
+## Serwico
+
+https://www.youtube.com/watch?v=b4l9H0h3d8U
 
 ### Hikvision
 + [Hikvision linkedin](https://www.linkedin.com/company/hikvision/)
