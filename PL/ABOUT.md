@@ -1,4 +1,98 @@
+## [cameraMonit.com] to inteligentna głosowa komunikacja z wieloma kamerami
+
+Wyobraź sobie system monitoringu, który nie tylko rejestruje obraz, ale również rozumie go i komunikuje się z Tobą. 
+[cameraMonit.com] rozmawia, analizuje i powiadamia wtedy gdy potrzebujesz, eliminując fałszywe alarmy.
+
+- Intuicyjna obsługa systemu monitoringu
+- Głosowa szybkość dostęp do informacji o zdarzeniach
+- Elastyczność w wyborze metody komunikacji
+- Rozbudowa systemu o dziesiątki kamer
+- Najwyższy poziom bezpieczeństwa danych
+- Zgodny z wytycznymi Artificial Intelligence Act
+
+Odkryj nową erę monitoringu z cameraMonit.com - Twój inteligentny asystent jest zawsze gotowy do rozmowy!
+
+Interakcja:
+- Głosowa i tekstowa komunikacja
+- Możliwość zadawania pytań o zdarzenia z ostatnich 24 godzin
+- Rozmowa video z podglądem wybranej kamery w czasie rzeczywistym *
+
+Uczenie:
+- Uczenie się nowych obiektów
+- Eliminacja fałszywych powiadomień
+  
+Powiadomienia:
+- Powiadomienia przez komunikator
+- Przekazywanie tylko istotnych zdarzeń
+
+Komunikatory:
+- Telegram 
+- Signal *
+- WhatsApp *
+
+
+* w przygotowaniu
+
+
+
 ## Rozwiazanie
+
+Dlaczego CCTV z użyciem ML jest przełomem?
+
+Bo pozwala za pomocą danych z jednego systemu stworzyć, system:
+
+- alarmowy
+
+- dostępu
+
+- ostrzegania o incydentach: pożarze, kradzieży, ...
+
+
+
+
+Zastosowanie uczenia maszynowego #ML w systemach monitoringu wizyjnego #CCTV pozwala na implementację systemu alarmowowego, kontroli dostępu, ostrzegania o incydentach: pożarze, kradzieży, ...
+
+
+Interesuje mnie:
++ Analiza zachowań, incydentów
++ Rozpoznawanie obiektów, twarzy
++ Zarządzanie dostępem
++ ... odp. w komentarzu
+
+
+Zastosowanie uczenia maszynowego (ML, od ang. Machine Learning) w systemach monitoringu wizyjnego (CCTV) przynosi przełom, ponieważ 
+znacząco rozszerza możliwości tradycyjnych systemów CCTV, przekształcając je z prostych narzędzi rejestrujących w inteligentne systemy wspierające decyzje i reagowanie na zdarzenia w czasie rzeczywistym. Oto kilka kluczowych sfery, gdzie zastosowanie ML w CCTV jest przełomowe:
+
+### System Alarmowy
+- **Detekcja Nietypowych Zdarzeń**: Systemy mogą być trenowane do rozpoznawania nietypowych wzorców lub zachowań, które mogą sugerować zagrożenie, np. osoba wchodząca do budynku w nietypowych godzinach.
+- **Natychmiastowa Reakcja**: Możliwość ustawienia automatycznych alarmów w przypaku wykrycia określonych zdarzeń, co pozwala na szybsze reagowanie przez służby bezpieczeństwa.
+
+### Kontrola Dostępu
+- **Rozpoznawanie Twarzy**: Wykorzystanie ML do identyfikacji osób za pomocą rozpoznawania twarzy oferuje bardziej zaawansowane i bezpieczne formy kontroli dostępu, niezależne od tradycyjnych metod jak karty dostępu czy kody PIN.
+- **Detekcja Autoryzacji**: Możliwość detekcji obecności osób nieautoryzowanych w restrykcyjnych strefach i automatyczne generowanie powiadomień.
+
+### Ostrzeganie o Incydentach
+- **Detekcja Pożaru i Dymu**: Systemy ML mogą być trenowane do rozpoznawania oznak dymu i ognia na wczesnym etapie, co umożliwia szybką ewakuację i reakcję przeciwpożarową.
+- **Rozpoznawanie Niebezpiecznych Przedmiotów**: Identyfikacja pozostawionych bagażów lub innych przedmiotów, które mogą stanowić zagrożenie, takie jak niebezpieczne materiały.
+
+### Zalety Ogólne
+- **Zmniejszenie Fałszywych Alarmów**: Dzięki zdolności do nauki i rozpoznawania złożonych wzorców, systemy ML mogą redukować liczbę fałszywych alarmów, zwiększając skuteczność monitoringu.
+- **Optymalizacja Zasobów**: Automatyzacja detekcji zdarzeń pozwala optymalizować zasoby ludzkie, koncentrując uwagę personelu na sytuacjach wymagających interwencji.
+- **Analiza Wideo w Czasie Rzeczywistym**: Przetwarzanie i analiza strumieni wideo w czasie rzeczywistym umożliwia natychmiastowe reagowanie na wykryte zagrożenia czy incydenty.
+
+Integracja ML z systemami CCTV wnosi zatem gigantyczne ulepszenie w zakresie monitoringu i bezpieczeństwa, przekształcając pasywne nagrywanie w aktywną, inteligentną analizę pozwalającą na znaczące zwiększenie efektywności operacyjnej i bezpieczeństwa ogólnego.
+
+
+
+Monitoring wizyjny (CCTV) z wykorzystaniem sztucznej inteligencji (ML) to przełomowe połączenie.
+Pozwala na wykorzystanie danych z jednego systemu do stworzenia różnych funkcjonalności, takich jak:
+- System alarmowy: Dzięki analizie obrazów i wykrywaniu nieprawidłowości, system może automatycznie generować alarmy w przypadku podejrzanych zdarzeń, takich jak nieautoryzowany dostęp czy ruch w zakazanej strefie .
+- System kontroli dostępu: ML może pomóc w identyfikacji osób na podstawie obrazów z kamer, umożliwiając dostęp tylko uprawnionym użytkownikom. To zwiększa bezpieczeństwo i ułatwia zarządzanie dostępem do chronionych obszarów .
+- Ostrzeganie o incydentach: System może automatycznie wykrywać potencjalne zagrożenia, takie jak pożar, kradzież lub inne awarie. Dzięki temu personel otrzymuje szybkie powiadomienia, co pozwala na natychmiastowe działania .
+  Historia monitoringu wizyjnego sięga ubiegłego stulecia, ale dzisiejsze technologie znacznie różnią się od tych sprzed lat. Wcześniejsze kamery nie miały opcji jednoczesnego rejestrowania i przeglądania zdarzeń, co jest teraz standardem .
+  Warto podkreślić, że połączenie ML z monitoringiem wizyjnym otwiera nowe możliwości i zwiększa efektywność systemów bezpieczeństwa.
+
+
 
 Wielu myśli, że chatGpt to rewolucja ... a co jeśli wykorzystamy różne kanały komunikacji głosowe i video, asnychroniczne i synchroniczne np. w celu zarządzania infrastrukturą od monitoringu po smarthome, komputery
 
@@ -11,7 +105,7 @@ Sterowanie i komunikacja z kamerą jest możliwa przez popularny komunikator:
 + whatsapp
 + telegram
   
-Asystent kamer będzie funckkjonował jak podczas rozmowy z osobą.
+Asystent kamer będzie funkcjonował jak podczas rozmowy z osobą.
 Do dystopzycji jest chat tekstowy i głosowy oraz funkcja rozmowy video, gdzie będzie można wybrać kamerę którą chce się widzieć w czasie rzeczywistym.
 
 Uzytkownik może po prostu rozmawiać lub pisać z asystentem poprzez przez swój komunikator.
@@ -145,10 +239,6 @@ Offer
 It provides free rolling 3-day cycled cloud storage that you can enjoy storage service without any subscription. And it provides a 30-day free trial of advanced features that include AI recognition, upgraded cloud memory, custom alert areas and etc, the advanced features starts at $2.99 per month after 30 days free trial. 
 
 
-# docs.cameramonit.com
-
-
-## Rozwiązanie
 
 ### Kamery, dziedzina, branża
 
